@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET Core\\QlySanPham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|d:\\asp.net core\\qlysanpham\\qlysanpham\\repositories\\interfaces\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770B181-6DE9-47CC-8332-6AA5DA52B8DA}|QlySanPham\\QlySanPham.csproj|solutionrelative:qlysanpham\\repositories\\interfaces\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "QlySanPham\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "QlySanPham\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T08:01:25.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "QlySanPham\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "QlySanPham\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:49:21.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QlySanPham\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "QlySanPham\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:49:56.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "QlySanPham\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "QlySanPham\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:43:08.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "QlySanPham\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "QlySanPham\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:48:27.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QlySanPham\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "QlySanPham\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:46:32.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "QlySanPham\\Models\\Product.cs",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Models\\Product.cs",
+              "RelativeToolTip": "QlySanPham\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:46:42.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QlySanPham\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QlySanPham\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:46:43.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\appsettings.json",
+              "RelativeDocumentMoniker": "QlySanPham\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\appsettings.json",
+              "RelativeToolTip": "QlySanPham\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T06:59:00.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "QlySanPham\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "QlySanPham\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:47:35.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QlySanPham\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "QlySanPham\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:49:02.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Program.cs",
+              "RelativeDocumentMoniker": "QlySanPham\\Program.cs",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Program.cs",
+              "RelativeToolTip": "QlySanPham\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:11:50.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QlySanPham\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QlySanPham\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:58:57.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "QlySanPham\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "QlySanPham\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:12:11.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "QlySanPham\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "QlySanPham\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:45:38.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductRepositories.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "RelativeDocumentMoniker": "QlySanPham\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "RelativeToolTip": "QlySanPham\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:45:11.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "QlySanPham\\Services\\ProductService.cs",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Services\\ProductService.cs",
+              "RelativeToolTip": "QlySanPham\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:43:36.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "QlySanPham\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ASP.NET Core\\QlySanPham\\QlySanPham\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "QlySanPham\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:40:55.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+D:\ASP.NET Core\QlySanPham\obj\Debug\net9.0\QlySanPham.csproj.AssemblyReference.cache
+D:\ASP.NET Core\QlySanPham\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ASP.NET Core\QlySanPham\obj\Debug\net9.0\QlySanPham.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core\QlySanPham\obj\Debug\net9.0\QlySanPham.AssemblyInfoInputs.cache
+D:\ASP.NET Core\QlySanPham\obj\Debug\net9.0\QlySanPham.AssemblyInfo.cs
+D:\ASP.NET Core\QlySanPham\obj\Debug\net9.0\QlySanPham.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\QlySanPham\obj\Debug\net9.0\QlySanPham.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Core\QlySanPham\obj\Debug\net9.0\QlySanPham.RazorAssemblyInfo.cache
+D:\ASP.NET Core\QlySanPham\obj\Debug\net9.0\QlySanPham.RazorAssemblyInfo.cs
